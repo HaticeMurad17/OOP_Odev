@@ -1,15 +1,6 @@
 <div align="center">
 
 # 🟢 Dilek Kartları Oyunu
-
-### Black & Emerald Green Edition
-
-[![Status](https://img.shields.io/badge/STATUS-ACTIVE-0f9d58?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](#)
-[![Platform](https://img.shields.io/badge/PLATFORM-WINDOWS-0f9d58?style=for-the-badge&logo=windows&logoColor=white&labelColor=000000)](#)
-[![Language](https://img.shields.io/badge/LANGUAGE-C%23-0f9d58?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=000000)](#)
-
-</div>
-
 ---
 
 ## 🟩 Oyun Kodlarına Erişim
