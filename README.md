@@ -1,6 +1,10 @@
 <div align="center">
 
 # 🟢 Dilek Kartları Oyunu
+
+###
+</div>
+
 ---
 
 ## 🟩 Oyun Kodlarına Erişim
